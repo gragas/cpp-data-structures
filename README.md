@@ -17,6 +17,7 @@ None, yet!
 * Set
 * Map
 * Binary Tree
+* Red-Black Tree
 * Heap
 * B-Tree
 * Quadtree
